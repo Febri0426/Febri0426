@@ -1,10 +1,27 @@
 ### Hello world, I'm Febriani Amalia
 
-![Tech Banner](https://skillicons.dev/icons?i=figma,html,css,php,java,laravel,mysql,git,github,vscode&perline=8)
+<!-- Tech Stack dengan animasi glow -->
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/⚡_Tech_Stack-000000?style=for-the-badge&logo=none&labelColor=000000" height="35" />
+  </p>
+  <div style="filter: drop-shadow(0 0 8px rgba(255,255,255,0.3));">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="45" style="border-radius: 12px;" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" height="45" style="border-radius: 12px;" />
+  </div>
+</div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Febri0426" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Febri0426?style=social" alt="Followers"/>
+<!-- Profile Views dengan style rounded -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Febri0426&label=Profile%20views&style=rounded&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Febri0426?label=Followers&style=rounded&logo=github" />
 </p>
 
 ### 👤 About Me
