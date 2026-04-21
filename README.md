@@ -24,7 +24,7 @@
 
 ## 🚀 Quick Facts
 
-- 🎯 Turning coffee into code since **2023**
+- 🎯 Turning coffee into code since **2025**
 - 🎨 Specialized in **UI/UX Design** and **Frontend Development**
 - 🏆 Passionate about **creating beautiful and functional designs**
 -  Always learning **new technologies and design patterns**
@@ -77,14 +77,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Febri0426&theme=radical&hide_border=false&background=0D1117&stroke=F7971E" alt="GitHub Streak" height="180"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Febri0426&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
