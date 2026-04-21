@@ -1,36 +1,128 @@
-### Hello world, I'm Febriani Amalia
+# Hi there 👋 I'm Febriani Amalia
+
+### 👩‍💻 UI/UX Designer & Full Stack Developer | Jember State Polytechnic Student
+
+![Banner](https://raw.githubusercontent.com/Febri0426/Febri0426/main/banner.gif)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+create+beautiful+digital+experiences;UI/UX+%7C+Web+Development)](https://git.io/typing-svg)
+
+---
+
+## 🎯 About Me
+
+<p align="right"> <img src="https://media.giphy.com/media/W5eoZHPpUx9TapR04i/giphy.gif" alt="Coding" width="200" align="right"/> </p>
+
+- 👩‍🎓 I'm currently a **4th semester student** at **Jember State Polytechnic**
+- 🎨 I'm passionate about **UI/UX Design** and **Web Development**
+- 💻 I love creating **user-friendly interfaces** and **seamless experiences**
+- 🌱 I'm currently learning **Laravel, React, and Advanced Design Systems**
+- 💬 Ask me about **Figma, HTML/CSS, JavaScript, PHP**
+- 📫 How to reach me: **febrianiamalianurhasanah0426@gmail.com**
+- ⚡ Fun fact: **I love exploring design trends and collaborating on creative projects!**
+
+---
+
+## 🚀 Quick Facts
+
+- 🎯 Turning coffee into code since **2023**
+- 🎨 Specialized in **UI/UX Design** and **Frontend Development**
+- 🏆 Passionate about **creating beautiful and functional designs**
+-  Always learning **new technologies and design patterns**
+- 🤝 Eager to collaborate on **innovative projects**
+
+---
+
+## 🛠️ Technologies and Tools
+
+### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="35"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="35"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="35"/>
+</p>
+
+### 🎨 Frameworks & Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="35"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="35"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="35"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="35"/>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="35"/>
+</p>
+
+### 🎨 Design & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="35"/>
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe-XD&logoColor=white" alt="Adobe XD" height="35"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="35"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=25&duration=3000&pause=1000&color=F7971E&center=true&vCenter=true&width=435&lines=⚡+My+Tech+Stack" alt="Typing SVG" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Febri0426&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=F7971E&icon_color=F7971E" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Febri0426&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=F7971E" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="40" alt="Figma" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" alt="CSS3" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" alt="PHP" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40" alt="Java" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="40" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="40" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Febri0426&theme=radical&hide_border=false&background=0D1117&stroke=F7971E" alt="GitHub Streak" height="180"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Febri0426&label=Profile%20views&color=F7971E&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Febri0426?label=Followers&style=flat-square&logo=github" alt="Followers" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Febri0426&theme=radical&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-### 👤 About Me
-- 👋 Hello everyone, I'm a 4th semester student of Informatics Engineering. I enjoy creating user-friendly designs and developing web applications.
-- 🎓 I'm passionate about UI/UX Design, Web Development, and continuously learning new technologies.
-- 🎨 Apart from technical interests, I like exploring design trends, learning new skills, and collaborating on creative projects.
-- 📧 Feel free to reach out to me for collaborations or just a friendly chat about design and technology!
-- ✉️ You can email me at [febrianiamalianurhasanah0426@gmail.com](mailto:febrianiamalianurhasanah0426@gmail.com), I'll try to respond as soon as possible!
+---
 
-If my repository is helpful for you then **Nominate me for GitHub Star** ⭐
+## 📈 Contribution Graph
 
-### 📫 How to reach me:
-- 💼 LinkedIn: [www.linkedin.com/in/febriani-amalia-nurhasanah-165385325](https://www.linkedin.com/in/febriani-amalia-nurhasanah-165385325/)
-- 📧 Email: febrianiamalianurhasanah0426@gmail.com
-- 📄 [Download My CV](https://drive.google.com/file/d/1jgFl62LOtttrecO65VfLJ5NgfafxkH7d/view?usp=drive_link)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Febri0426&theme=react-dark&hide_border=false&bg_color=0D1117&color=F7971E&line=F7971E&point=FFFFFF&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://linkedin.com/in/febriani-amalia-nurhasanah-165385325" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/>
+  </a>
+  <a href="mailto:febrianiamalianurhasanah0426@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1jgFl62LOtttrecO65VfLJ5NgfafxkH7d/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" height="40"/>
+  </a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Febri0426&label=Total%20Profile%20Views&color=F7971E&style=flat-square" alt="Profile Views" height="30"/>
+</p>
+
+---
+
+### ⭐ If you like my work, consider giving a star!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=28&animation=fadeIn" alt="footer" />
+</p>
